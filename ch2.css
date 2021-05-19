@@ -1,0 +1,23 @@
+.container-1 {
+  border: 1px solid rgb(255, 0, 0);
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+}
+.flex-box-container-1 {
+  display: flex;
+  border: 1px solid blue;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.container-1 button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: darkblue;
+  font-style: oblique;
+}
+.flex-box-container-1 img{
+    border: 1px solid green;
+    padding:  15px;
+    margin: 10px;
+}
